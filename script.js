@@ -1,5 +1,5 @@
 // 1. تأثير الكتابة
-const words = ["Computer Science Student", "Web Developer", "Tech Enthusiast"];
+const words = ["Computer Science Student", "Web Developer", "Phone Repair Specialist"];
 let i = 0;
 let isDeleting = false;
 let textIndex = 0;
